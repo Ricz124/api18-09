@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Crticle</title>
+	</head>
+	<body>
+		<article>
+			<table>
+				<tr>
+					<td><span>Nome:</span></td>
+					<td><span> nomecliente </td>
+				</tr>
+				<tr>
+					<td><span>Tel:</span></td>
+					<td><span> telcliente </span></td>
+				</tr>
+				<tr>
+					<td><span>Email:</span></td>
+					<td><span> emailcliente </span></td>
+				</tr>
+				<tr>
+					<td><span>CPF:</span></td>
+					<td><span> cpfcliente </span></td>
+				</tr>
+				<tr>
+					<td><button>Sair</button></td>
+					<td><button> Remover conta </button></td>
+				</tr>
+			</table>
+		</article>
+	</body>
+</html>
